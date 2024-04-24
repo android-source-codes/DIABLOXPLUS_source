@@ -1,0 +1,15 @@
+
+
+#ifndef __CUSTOM_MEMORYDEVICE__
+#define __CUSTOM_MEMORYDEVICE__
+
+
+
+#define BOARD_ID                MT6592_EVB
+
+#define CS_PART_NUMBER[0]       H9TQ18ABJTMCUR
+#define CS_PART_NUMBER[1]       KMR8X0001M_B608
+#define CS_PART_NUMBER[2]       KMR4Z0001M_B802
+#define CS_PART_NUMBER[3]       KMR820001M_B609
+
+#endif /* __CUSTOM_MEMORYDEVICE__ */
